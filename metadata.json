@@ -1,0 +1,6 @@
+{
+  "name": "Rajasthan eMitra Online Services",
+  "description": "Professional and modern Rajasthan eMitra Online Services portal for citizens to request certificates, cards, and government services, with an administrative management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
